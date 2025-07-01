@@ -4,7 +4,7 @@
     font-family: "metropolis-regular", sans-serif;
 }
 .first{
-    background-image: url(/background.avif);
+    background-image: url(background.avif);
     size: 100%;
 }
 header{
